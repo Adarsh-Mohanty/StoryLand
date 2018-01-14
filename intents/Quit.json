@@ -1,0 +1,43 @@
+{
+  "id": "2112e6e0-4ff3-4005-aa3a-1b9a01dd1018",
+  "name": "Quit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Quit-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Bye..",
+            "Goodbye",
+            "See ya",
+            "see you latter",
+            "thank you for visiting storyland"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511069640,
+  "fallbackIntent": false,
+  "events": []
+}

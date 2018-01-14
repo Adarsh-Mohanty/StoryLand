@@ -1,0 +1,118 @@
+[
+  {
+    "id": "5b4be311-f450-43b7-afe2-e5c23fb36956",
+    "data": [
+      {
+        "text": "tell me a story about ",
+        "userDefined": false
+      },
+      {
+        "text": "animals",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512662126
+  },
+  {
+    "id": "726e0eb2-5846-4380-b7aa-6f0a9bc37dc2",
+    "data": [
+      {
+        "text": "narrate an ",
+        "userDefined": false
+      },
+      {
+        "text": "animal",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      },
+      {
+        "text": " story",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512662126
+  },
+  {
+    "id": "64193ff7-2d40-42ed-9993-efdce052cf5b",
+    "data": [
+      {
+        "text": "animals",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      },
+      {
+        "text": " story",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512662126
+  },
+  {
+    "id": "96a8f946-344e-47f4-8586-4986eb732d88",
+    "data": [
+      {
+        "text": "animal",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      },
+      {
+        "text": " stories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512662126
+  },
+  {
+    "id": "fcbe8f4b-8f75-4e3f-afd5-de6cfdd20fcd",
+    "data": [
+      {
+        "text": "animal",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      },
+      {
+        "text": " story",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512662126
+  },
+  {
+    "id": "a5f6278c-4375-4ee4-93af-744f32543200",
+    "data": [
+      {
+        "text": "Tell me an ",
+        "userDefined": false
+      },
+      {
+        "text": "animal",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      },
+      {
+        "text": " story",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512662126
+  }
+]

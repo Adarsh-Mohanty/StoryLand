@@ -1,0 +1,70 @@
+[
+  {
+    "id": "0333a82c-cf57-42cd-ad9f-dc18238a7d9d",
+    "data": [
+      {
+        "text": "humorous story",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57f25c45-6632-4151-8530-ab887b27a29f",
+    "data": [
+      {
+        "text": "humour",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      },
+      {
+        "text": " story",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d6bead3-ecd6-47a7-b42f-54e08b1d9b5b",
+    "data": [
+      {
+        "text": "tell a ",
+        "userDefined": false
+      },
+      {
+        "text": "humour",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      },
+      {
+        "text": " story",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0a16afd-9bb2-4c14-b2b6-c2aaed67428b",
+    "data": [
+      {
+        "text": "tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "humorous story",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

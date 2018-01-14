@@ -1,0 +1,50 @@
+{
+  "id": "4590e7ea-1071-41ea-bad1-694349b0d214",
+  "name": "Birbal_Story",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Birbalstory",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e14c5c72-d6c0-4d55-9a00-52ab247432b2",
+          "required": true,
+          "dataType": "@Genres",
+          "name": "Genres",
+          "value": "$Genres",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me a category or type of story you want. Like you can ask for a \"Moral story\", \"animal story\", \"witty story\", \"humorous story\", \"Akbar-Birbal stories\"  or \"Fables\" and many more..."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Let us enjoy this story of Birbal Stories of Birbal Betrays Himself.\n\nBirbal was missing. He and the emperor had a quarrel and Birbal had stormed out of the palace vowing never to return. \n\nNow Akbar missed him and wanted him back but no one knew where he was.\n\nThen the emperor had a brainwave. He offered a reward of 1000 gold coins to any man who could come to the palace observing the following condition. The man had to walk in the sun without an umbrella but he had to be in the shade at the same time.\n\n\"Impossible,\" said the people.\n\nThen a villager came carrying a string cot over his head and claimed the prize.\n\n\"I\u0027ve walked in the sun but at the same time I was in the shade of the strings of the cot,\" he said. \n\nIt was a brilliant solution. On interrogation the villager confessed that the idea had been suggested to him by a man living with him.\n\n\"It could only be Birbal!\" said the emperor, delighted. \n\nSure enough it was Birbal and he and the emperor had a joyous reunion.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "Let us enjoy this story of Birbal Stories of Birbal Denies Rumor.\n\nOne day a man stopped Birbal in the street and began narrating his woes to him.\n\n\"I\u0027ve walked twenty miles to see you,\" he told Birbal finally, \"and all along the way people kept saying you were the most generous man in the country.\"\n\nBirbal knew the man was going to ask him for money.\n\n\"Are you going back the same way?\" he asked.\n\n\"Yes,\" said the man.\n\n\"Will you do me a favor?\"\n\n\"Certainly,\" said the man. \"What do you want me to do?\"\n\n\"Please deny the rumor of my generosity,\" said Birbal, walking away.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "Let us enjoy this story of Birbal Stories of Birbal Identifies Thief.\n\nOne fine morning, a minister from Emperor Akbar\u0027s court had gathered in the assembly hall. \n\nHe informed the Emperor that all his valuables had been stolen by a thief the previous night. \n\nAkbar was shocked to hear this because the place where that minister lived was the safest place in the kingdom. \n\nHe invited Birbal to solve the mystery. Akbar said \"It is definitely not possible for an outsider to enter into the minister\u0027s house and steal the valuables. This blunder is definitely committed only by another minister of that court.\" Saying so, he arranged for a donkey to be tied to a pillar. He ordered all the courtiers to lift the donkey\u0027s tail and say \"I have not stolen.\" \n\nBirbal added \"Only then we can judge the culprit.\" After everyone had finished, he asked the courtiers to show their palm to him. All the courtiers except Alim Khan had a black patch of paint on their palm. Birbal had actually painted the donkey\u0027s tail with a black coat of paint. In the fright, the guilty minister did not touch the donkey\u0027s tail at all. Thus Birbal once again proved his intelligence and was rewarded by the king with 1000 gold coins.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "Let us enjoy this story of Birbal Stories of Birbal Outwits Cheat.\n\nA farmer and his neighbor once went to Emperor Akbar\u0027s court with a complaint.\n\n\"Your Majesty, I bought a well from him,\" said the farmer pointing to his neighbor,\" and now he wants me to pay for the water.\"\n\n\"That\u0027s right, your Majesty,\" said the neighbor. \"I sold him the well but not the water!\"\n\nThe Emperor asked Birbal to settle the dispute.\n\n\"Didn\u0027t you say that you sold your well to this farmer?\" Birbal asked the neighbor. \"So, the well belongs to him now, but you have kept your water in his well. Is that right? Well, in that case you will have to pay him a rent or take your water out at once.\"\n\nThe neighbor realized that he was outwitted. He quickly apologized and gave up his claim.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "Let us enjoy this story of Birbal Stories of Birbal Shortens Road.\n\nThe Emperor Akbar was traveling to a distant place along with some of his courtiers. It was a hot day and the emperor was tiring of the journey.\n\n“Can’t anybody shorten this road for me?\" he asked, querulously.\n\n“I can,\" said Birbal.\n\nThe other courtiers looked at one another, perplexed. All of them knew there was no other path through the hilly terrain. \n\nThe road they were traveling on was the only one that could take them to their destination.\n\n“You can shorten the road?\" said the emperor. “Well, do it.\"\n\n“I will,\" said Birbal. “Listen first to this story I have to tell.\"\n\nAnd riding beside the emperor’s palanquin, he launched upon a long and intriguing tale that held Akbar and all those listening, spellbound. Before they knew it, they had reached the end of their journey.\n\n“We’ve reached?\" exclaimed Akbar. “So soon!\"\n\n“Well,\" grinned Birbal, “you did say you wanted the road to be shortened.\"\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514534799,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Mythological",
+    "synonyms": [
+      "Mythological",
+      "myth",
+      "myths",
+      "Gods",
+      "god",
+      "lord",
+      "bhagwan",
+      "ishwar",
+      "mythology"
+    ]
+  },
+  {
+    "value": "Moral",
+    "synonyms": [
+      "Moral",
+      "teaching",
+      "learning"
+    ]
+  },
+  {
+    "value": "animal",
+    "synonyms": [
+      "animal",
+      "animals"
+    ]
+  },
+  {
+    "value": "Witty",
+    "synonyms": [
+      "Witty",
+      "Witty tales"
+    ]
+  },
+  {
+    "value": "Humorous",
+    "synonyms": [
+      "Humorous",
+      "funny",
+      "humour",
+      "Humorous Stories"
+    ]
+  },
+  {
+    "value": "Birbal",
+    "synonyms": [
+      "Birbal",
+      "Akbar Birbal",
+      "King"
+    ]
+  },
+  {
+    "value": "Fable",
+    "synonyms": [
+      "Fable",
+      "Fables"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "b63837c9-34e8-4cc6-b3f8-90b545e5efc3",
+  "name": "Animal_Story",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Animalstory",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0e7fe074-8ef9-435f-b6d7-85b38a24ac65",
+          "required": true,
+          "dataType": "@Genres",
+          "name": "Genres",
+          "value": "$Genres",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me a category or type of story you want. Like you can ask for a \"Moral story\", \"animal story\", \"witty story\", \"humorous story\", \"Akbar-Birbal stories\"  or \"Fables\" and many more..."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The title of the story is A friend in need is a friend indeed.\n\nOnce upon a time there lived a lion in a forest. One day after a heavy meal. It was sleeping under a tree. After a while, there came a mouse and it started to play on the lion. Suddenly the lion got up with anger and looked for those who disturbed its nice sleep. Then it saw a small mouse standing trembling with fear. The lion jumped on it and started to kill it. The mouse requested the lion to forgive it. The lion felt pity and left it. The mouse ran away. \n\nOn another day, the lion was caught in a net by a hunter. The mouse came there and cut the net. Thus it escaped. There after, the mouse and the lion became friends. They lived happily in the forest afterwards. \n\nSo the moral of the story is:\nA friend in need is a friend indeed. \n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "The title of the story is A Town Mouse and A Country Mouse.\nA Town Mouse and a Country Mouse were friends. The Country Mouse one day invited his friend to come and see him at his home in the fields. The Town Mouse came and they sat down to a dinner of barleycorns and roots the latter of which had a distinctly earthy flavour.\n\nThe flavour was not much to the taste of the guest and presently he broke out with “My poor dear friend, you live here no better than the ants. Now, you should just see how I fare! My larder is a regular horn of plenty. You must come and stay with me and I promise you shall live on the fat of the land.\" \n\nSo when he returned to town he took the Country Mouse with him and showed him into a larder containing flour and oatmeal and figs and honey and dates. \n\nThe Country Mouse had never seen anything like it and sat down to enjoy the luxuries his friend provided. But before they had well begun, the door of the larder opened and some one came in. The two Mice scampered off and hid themselves in a narrow and exceedingly uncomfortable hole. Presently, when all was quiet, they ventured out again. But some one else came in, and off they scuttled again. This was too much for the visitor. \"Good bye,\" said he, \"I\u0027m off. You live in the lap of luxury, I can see, but you are surrounded by dangers whereas at home I can enjoy my simple dinner of roots and corn in peace.\" \nThe moral of the story is:\nSafety is the first importance.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512662126,
+  "fallbackIntent": false,
+  "events": []
+}

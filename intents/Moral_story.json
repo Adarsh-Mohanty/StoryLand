@@ -1,0 +1,49 @@
+{
+  "id": "7fe21af2-9cb7-4793-a9cc-78048848549b",
+  "name": "Moral_story",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9ccf05f3-c594-4fcb-af2a-344a603bc0f9",
+          "required": true,
+          "dataType": "@Genres",
+          "name": "Genres",
+          "value": "$Genres",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me a category or type of story you want. Like you can ask for a \"Moral story\", \"animal story\", \"witty story\", \"humorous story\", \"Akbar-Birbal stories\"  or \"Fables\" and many more..."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Let us enjoy this story of A Wise Counting. \n\n\n\nEmperor Akbar was in the habit of putting riddles and puzzles to his courtiers. He often asked questions which were strange and witty. It took much wisdom to answer these questions. \n\n\n\nOnce he asked a very strange question. The courtiers were dumb folded by his question. \n\n\n\nAkbar glanced at his courtiers. As he looked, one by one the heads began to hang low in search of an answer. It was at this moment that Birbal entered the courtyard. Birbal who knew the nature of the emperor quickly grasped the situation and asked, \"May I know the question so that I can try for an answer\". \n\n\n\nAkbar said, \"How many crows are there in this city?\" \n\n\n\nWithout even a moment\u0027s thought, Birbal replied \"There are fifty thousand five hundred and eighty nine crows, my lord\". \n\n\n\n\"How can you be so sure?\" asked Akbar. \n\n\n\nBirbal said, \"Make you men count, My lord. If you find more crows it means some have come to visit their relatives here. If you find less number of crows it means some have gone to visit their relatives elsewhere\". \n\n\n\nAkbar was pleased very much by Birbal\u0027s wit. \n\nSo the moral is \"A witty answer will serve its purpose\".\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "Let us enjoy the story of A Wise Old Owl \n\nThere was an old owl that lived in an oak. Everyday he saw incidents happening around him. Yesterday he saw a boy helping an old man to carry a heavy basket. Today he saw a girl shouting at her mother. The more he saw the less he spoke. \n\n\nAs he spoke less, he heard more. He heard people talking and telling stories. He heard a woman saying that an elephant jumped over a fence. He also heard a man saying that he had never made a mistake. \n\n\nThe old owl had seen and heard about what happened to people. Some became better and some became worse. But the old owl had become wiser each and every day. \n\n\n So the moral of the story is\n\n\n\"You should be observant, talk less but listen more. This will make you a wise person. \"\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "The title of the story is My Son John \u003d Diddle, Diddle, Dumpling \n\nThere was a little boy called John. He was very playful. He played hard at the playground and was exhausted when he got home. His father told him to get undressed and ready for a bath. The little boy nodded and went straight to his room. \n\nHis father was waiting for John at the bathroom but he never came. His father went to John’s room. He saw that John was already asleep in his bed fully clothed. And one shoe was off but one shoe was still on his right foot. \n\nHis father took off John’s shoe and his trousers. He dressed him in his pyjamas and left him to sleep. \n\nThe moral of the story is \n\nAvoid playing too much until you are too tired to do anything else.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "The title of the story is \"Long-Eared Puppy \u003d Do Your Ears Hang Low?\"\n\nThere was a little boy who just celebrated his birthday. His parents bought him a puppy as a birthday present. The puppy had very long ears. \n\nOne evening, he was playing with his puppy. The puppy was happily jumping about and wagging his tail. Then the little boy tried to tie the puppy’s ears into a knot. The puppy stopped wagging his tail. \n\nThe little boy then tried to tie the puppy’s ears into a bow. The boy chuckled but the puppy became quiet. \n\n“Can you throw your ears over your shoulders like a regimental soldier?\" asked the boy. The puppy put his head on the ground and whimpered. The little boy laughed and hugged the puppy. The puppy wagged his tail happily. \n\n The moral of The Story is \n\nAvoid doing anything to someone that could not be changed.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "This is the story about \"Doctor Foster\" \n\nOne day, Dr. Foster wanted to go to Gloucester to do his work. It had been raining since morning and had not stopped. But he still went there nonetheless. \n\nOnce he finished his work, he set off home immediately. But it was still raining. The road was wet and slippery. Dr. Foster walked quickly. \n\nSuddenly, he stepped into a puddle full of water and sank up to his waist. He was scared and wet all over. He was so frustrated with his bad luck that he promised never to go to Gloucester again. \n\nThe moral of The Story is \n\nYou should be careful of where you are going to avoid any accident.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511975034,
+  "fallbackIntent": false,
+  "events": []
+}

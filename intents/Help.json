@@ -1,0 +1,35 @@
+{
+  "id": "b393251d-c74c-4d93-878c-5c729539e39c",
+  "parentId": "fa2952f8-4342-4b0f-bcb1-12c706694559",
+  "rootParentId": "fa2952f8-4342-4b0f-bcb1-12c706694559",
+  "name": "Help",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1. You can ask me to narrate a story of any category by saying \"Tell me a moral story\".\n\n2. There are many categories of stories for you. Like Fables, Humorous, Akbar-Birbal, witty stories.\n\n3. You can end the conversation any time by saying \"Bye\", \"Goodbye\" or \"Thank you\"."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

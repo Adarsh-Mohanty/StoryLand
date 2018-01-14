@@ -1,0 +1,36 @@
+[
+  {
+    "id": "d37508f2-b695-4c08-933e-2573c50ec3bc",
+    "data": [
+      {
+        "text": "narrate a ",
+        "userDefined": false
+      },
+      {
+        "text": "fable",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7dbed95b-d1e2-44f4-8070-2fe4d73c6e10",
+    "data": [
+      {
+        "text": "tell me a ",
+        "userDefined": false
+      },
+      {
+        "text": "fable",
+        "alias": "Genres",
+        "meta": "@Genres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

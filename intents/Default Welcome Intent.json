@@ -1,0 +1,48 @@
+{
+  "id": "fa2952f8-4342-4b0f-bcb1-12c706694559",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi! Welcome to StoryLand. If you need any help say \"help\". So how may I help you?",
+            "Hello! Welcome to StoryLand. If you need any help say \"help\". So how may I help you?",
+            "Good day! Welcome to StoryLand. If you need any help say \"help\". So how may I help you?",
+            "Greetings! Welcome to StoryLand. If you need any help say \"help\". So how may I help you?"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

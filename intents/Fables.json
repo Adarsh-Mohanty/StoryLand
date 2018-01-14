@@ -1,0 +1,49 @@
+{
+  "id": "d888f602-d917-4c3d-bedd-15450e104b61",
+  "name": "Fables",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c16589d7-c25f-46fa-8c8c-a484c2f7cd28",
+          "required": true,
+          "dataType": "@Genres",
+          "name": "Genres",
+          "value": "$Genres",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me a category or type of story you want. Like you can ask for a \"Moral story\", \"animal story\", \"witty story\", \"humorous story\", \"Akbar-Birbal stories\"  or \"Fables\" and many more..."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The title of the story is \"Ability of The Coward\"\n\n\nOnce, a coward lived in a village. Even the smallest sound would scare him. One day the royal messenger announced in the village \"The king has asked every young man of the kingdom to join the royal army. It’s an order. Everybody must follow it.\" \n\n\nThe coward was also forced to follow the royal order. So he too left for the city to join the royal army. \n\n\nOn the way the coward passed by a large and tall tree. Many crows were sitting on it and making a lot of noise. Loud noise of the crows scared the coward. He stopped due to fear. After standing for a few moments, he moved forward to go on but the crows again started to make a noise. Once again, the coward\u0027s mouth went dry with fear. He shivered in fright and in shaky voice he cried, \"Yes. Go on. Make as much noise as you want to. But I know you still cannot eat me up!\" \n\n\nThe coward was so scared that he thought the crows would eat him up. Actually he did not have the ability to join the royal army. A man must do only the task for which he is fit.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "The story is about the Advice of The Goat \n\n\nOnce, a villager owned a donkey and a goat. He used the donkey to carry loads of articles from the village to the city where he would roam around the whole day selling his articles. Sometime he could lend his donkey to others on hire when they needed it. As the donkey worked hard the whole day, the villager used to feed the donkey more food than he gave to the goat. \n\n\nThe goat felt jealous of the donkey. He advised the donkey, \"You work all day long and hardly get any rest. You must act that you are ill and fall down unconscious. This way, you\u00271l get rest for a few days.\" The donkey agreed to this and acted as if he was ill. The villager called the doctor. The doctor said, \u0027\u0027Your donkey has a strange illness. To cure him, you must feed him the soup made of a goat\u0027s lungs.\" \n\n\nThe villager at once killed the goat and cooked soup out of his lungs. Then he fed the soup to the donkey. \n\n\nThe goat had tried to harm the donkey out of jealousy but he had been killed for his evil nature.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "The title of the story is Blame.\n\n\nOne day a man went for a walk on the beach. He saw that a ship full of passengers struck a rock and capsized in the sea. The ship went under water and all the people on board fell into the sea. As they did not know how to swim, they drowned one by one. The man watched all this from the shore but could not do anything to help the people. \n\n\nIn the evening, he narrated the sad event of the ship\u0027s drowning to his friends. Everyone felt sorry for the dead people. The man said, \"God has not been just. To kill one sinner aboard the ship he killed so many other innocent people.\" \n\n\nAs he was saying this, he felt a pinch on his feet. He looked down. A red ant was biting his toe. Many other red ants were near his feet. In anger, he started stamping his feet to crush the red ants. \n\n\nGod appeared at the spot and said, \"See, how you are killing other innocent ants to kill the one which bit you. You were blaming me for my unjust act. Look at your own actions before blaming me for anything.\" \n\n\nThe man felt ashamed as he realized his mistake.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "This story is about the Cleverness of Mohit .\n\n\nOnce, Mohit and his younger brother Sumit were alone at home. Suddenly, two men got in to the house and said, \"We are your father\u0027s friends. We want a blue file he has.\" Actually they were terrorists. \n\n\nMohit\u0027s father was a police officer and he had brought a file home. It had information about the dens of notorious terrorists. Mohit knew the file was safe inside the cupboard. But Mohit said, \"I had seen the file on the table.\" As the terrorists searched for the file on the table, Mohit signalled to Sumit. Sumit started crying loudly. \n\n\nOne of them shouted, \"Stop crying, you fool!\" \n\n\nMohit said, \"He wants biscuits to eat. They are in kitchen\u0027s cupboard. I can\u0027t reach it.\" \n\n\nBoth of them got into the kitchen to get the biscuit. Mohit quickly locked the kitchen door and called his neighbours. Soon the police also reached Mohit\u0027s house and arrested both of the terrorists.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation.",
+            "The title of the story is \"A Lesson\"\n\nBittoo was a very naughty boy. One day he sat atop a tree with his catapult. Just then, he saw the priest of the village temple passing by. His bald head was shining in the sun. Bittoo could not resist himself, so he took a stone and aimed it at the priest\u0027s head. The stone struck the priest\u0027s head causing a wound that started bleeding. The priest cried out in pain. He looked around and soon spotted Bittoo on the tree with the catapult in his hand. He called Bittoo down and said, \"Your aim is excellent, son. Tomorrow the king will pass this way. You must hit a stone to his head. He will reward you for the excellent aim.\" \n\n\nNext day when the king passed by, Bittoo hit a stone on his forehead. \n\n\nAs the king started bleeding, he sent his guards to get Bittoo. The king ordered that Bittoo be whipped a hundred times in public. \n\n\nBittoo cried for forgiveness. The king forgave him when he promised not to be naughty anymore.\n\nSo there was your story! Want some more, then ask for it or say goodbye to end the conversation."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514534811,
+  "fallbackIntent": false,
+  "events": []
+}
